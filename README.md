@@ -1,4 +1,4 @@
-# CompanyCMS: Intelligent Incident & Complaint Resolution System (ICRS)
+ResolveAI – Intelligent Incident and Complaint Resolution Platform
 
 An enterprise-grade, ITIL-aligned complaint management and resolution platform. The system combines Spring Boot REST services, JavaFX desktop clients, and Google Gemini NLP triage to automate ticket categorization, enforce zero-trust authentication, and streamline agent resolution workflows.
 

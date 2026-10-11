@@ -1,0 +1,47 @@
+# ======================
+# Node / Frontend
+# ======================
+node_modules/
+build/
+dist/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Java / Maven / Spring Boot
+# ======================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ======================
+# IntelliJ / IDE files
+# ======================
+.idea/
+*.iml
+*.iws
+out/
+.ai/
+
+# ======================
+# Logs and temp files
+# ======================
+*.log
+*.tmp
+complaints_log.txt
+
+# ======================
+# Environment / Secrets
+# ======================
+.env*
+!.env.example
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
